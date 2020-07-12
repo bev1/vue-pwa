@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a457f890dcca2932bff8",
-    "url": "/vue-pwa/css/app.6a7bac77.css"
+    "revision": "5c56b2105e5d36aec888",
+    "url": "/vue-pwa/css/app.223a3953.css"
   },
   {
     "revision": "ca73915f6997aebdc740",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-pwa/img/preloader.cd9dfea8.gif"
   },
   {
-    "revision": "4936a0309acc4cccc5d8a769648b320d",
+    "revision": "6215056b0aec4c231804377d31d7c9db",
     "url": "/vue-pwa/index.html"
   },
   {
-    "revision": "a457f890dcca2932bff8",
-    "url": "/vue-pwa/js/app.31e73c13.js"
+    "revision": "5c56b2105e5d36aec888",
+    "url": "/vue-pwa/js/app.5b3797e4.js"
   },
   {
     "revision": "ca73915f6997aebdc740",

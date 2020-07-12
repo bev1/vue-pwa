@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-pwa/precache-manifest.af6c327efe2d0f6fe7dbc684bfa4e4f7.js"
+  "/vue-pwa/precache-manifest.8b50508e2c74d9808abfe7288cfb1827.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "giphy"});
